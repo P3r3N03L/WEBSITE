@@ -39,7 +39,7 @@ if "backup" in sys.argv:
     sftp_id = os.environ.get('sftp-id')
 
 
-    # Vraiables
+    # Variables
 
     sftp_dir = '/opt/sftp_dir/'
     bck_dir = '/opt/backup/'
